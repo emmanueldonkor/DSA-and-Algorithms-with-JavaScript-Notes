@@ -240,3 +240,27 @@ function nextGreaterElement(nums1, nums2) {
 }
 
 nextGreaterElement([4,1,2], [1,3,4,2]);
+
+
+/* 
+Two Sum: Given an array of integers and a target value, find two numbers in the array that add up to the target value.
+
+Three Sum: Given an array of integers and a target value, find all the unique triplets in the array that add up to the target value.
+
+Two pointers to find the first missing positive number: Given an unsorted array of integers, find the first missing positive integer.
+
+Two pointers to find the maximum subarray: Given an array of integers, find the contiguous subarray with the largest sum.
+
+Two pointers to find a pair of elements with a given sum in a sorted array: Given a sorted array of integers and a target sum, find a pair of elements in the array that add up to the target sum.
+
+Two pointers to find the minimum sum subarray of given size: Given an array of integers and a target subarray size, find the subarray of the given size with the minimum sum.
+
+Two pointers to find the longest subarray with a given sum: Given an array of integers and a target sum, find the longest subarray with the given sum.
+
+Two pointers to find the shortest subarray with a given sum: Given an array of integers and a target sum, find the shortest subarray with the given sum.
+
+Two pointers to find the smallest window in a string containing all the characters of another string: Given two strings, find the smallest window in the first string that contains all the characters of the second string.
+
+Two pointers to find the maximum length subarray having equal number of 0s and 1s: Given an array of 0s and 1s, find the maximum length subarray having equal number of 0s and 1s.
+
+*/
