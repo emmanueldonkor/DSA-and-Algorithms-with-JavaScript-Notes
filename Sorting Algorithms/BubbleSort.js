@@ -16,7 +16,6 @@ function bubbleSort(arr){
 
 console.log(bubbleSort([0,3,4,6,7]))
 
-
 //Bubble Sort Optimization
 function bubbleSort(arr) {
   for (var i = arr.length - 1; i >= 0; i--) {
