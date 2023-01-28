@@ -15,3 +15,6 @@ function isValidParentheses(str) {
   return stack.length === 0;
 }
 //very easy
+/* 
+Time complexity: O(n)
+Space complexity: O(n) */
